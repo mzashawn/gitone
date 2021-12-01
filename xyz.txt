@@ -1,0 +1,14 @@
+Device name	DESKTOP-8GOJMPK
+Processor	Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz   2.50 GHz
+Installed RAM	8.00 GB (7.75 GB usable)
+Device ID	6F8AA49B-AD7D-4D51-9176-90D372A67ED2
+Product ID	00325-82201-20119-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+
+Edition	Windows 10 Home
+Version	20H2
+Installed on	‎26/‎08/‎2021
+OS build	19042.1165
+Experience	Windows Feature Experience Pack 120.2212.3530.0
